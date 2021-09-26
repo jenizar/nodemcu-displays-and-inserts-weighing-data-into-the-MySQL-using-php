@@ -5,6 +5,13 @@ materials:
 
 digital hanging scale custom, nodemcu load cell amplifier high quality HX711, adaptor 5v/3A, jumper cable.
 
+![alt text](https://github.com/jenizar/nodemcu-displays-and-inserts-weighing-data-into-the-MySQL-using-php/blob/main/loadcell_php_web.PNG)
+![alt text](https://github.com/jenizar/nodemcu-displays-and-inserts-weighing-data-into-the-MySQL-using-php/blob/main/loadcell_data_web.PNG)
+![alt text](https://github.com/jenizar/nodemcu-displays-and-inserts-weighing-data-into-the-MySQL-using-php/blob/main/digital_hanging_scale.jpg)
+![alt text](https://github.com/jenizar/nodemcu-displays-and-inserts-weighing-data-into-the-MySQL-using-php/blob/main/digital_hanging_scale_nodemcu_hx711.jpg)
+![alt text](https://github.com/jenizar/nodemcu-displays-and-inserts-weighing-data-into-the-MySQL-using-php/blob/main/nodemcu_hx711_loadcell_amplifier.jpg)
+![alt text](https://github.com/jenizar/nodemcu-displays-and-inserts-weighing-data-into-the-MySQL-using-php/blob/main/portable_digital_hanging_scale.jpg)
+
 instructions: 
 
 A. digital hanging scale to HX711 load cell amplifier
