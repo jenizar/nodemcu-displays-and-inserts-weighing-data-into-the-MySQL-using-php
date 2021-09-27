@@ -23,6 +23,8 @@ A. digital hanging scale to HX711 load cell amplifier
 6. match the 4 wires coming from the weighing sensor to the load cell amplifier HX711 red - red, black - black, white - white, green - green
 7. Adjust the 4 pins on the HX711 load cell amplifier with the pins on the Arduino board. VCC - 5v, DAT - D5, CLK - D6, GND - GND
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/h56QFyca2MI/0.jpg)](http://www.youtube.com/watch?v=h56QFyca2MI)
+
 references:
 1. https://github.com/jenizar/arduino-digital-hanging-scale-data-on-p10-led-panel
 2. https://randomnerdtutorials.com/esp8266-nodemcu-http-get-post-arduino/
